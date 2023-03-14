@@ -1,0 +1,17 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Content/ManneQuins
+Content/ParagonCrunch
+Content/ParagonGrux
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
